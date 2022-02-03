@@ -1,5 +1,5 @@
 import { useState } from "react";
-import styles from "../styles/Featured.module.css";
+import styles from "../styles/Featured.module.scss";
 import Image from "next/image";
 
 type direction = "left" | "right";
